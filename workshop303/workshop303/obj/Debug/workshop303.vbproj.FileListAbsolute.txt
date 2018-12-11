@@ -1,0 +1,11 @@
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\bin\Debug\workshop303.exe.config
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\bin\Debug\workshop303.exe
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\bin\Debug\workshop303.pdb
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\bin\Debug\workshop303.xml
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\obj\Debug\workshop303.vbprojAssemblyReference.cache
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\obj\Debug\workshop303.Resources.resources
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\obj\Debug\workshop303.vbproj.GenerateResource.cache
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\obj\Debug\workshop303.vbproj.CoreCompileInputs.cache
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\obj\Debug\workshop303.exe
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\obj\Debug\workshop303.xml
+C:\Users\Lambdaz\Desktop\workshop303\workshop303\obj\Debug\workshop303.pdb

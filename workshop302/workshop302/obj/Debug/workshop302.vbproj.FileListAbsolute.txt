@@ -1,0 +1,12 @@
+D:\58121057-2\workshop302\workshop302\bin\Debug\workshop302.exe.config
+D:\58121057-2\workshop302\workshop302\bin\Debug\workshop302.exe
+D:\58121057-2\workshop302\workshop302\bin\Debug\workshop302.pdb
+D:\58121057-2\workshop302\workshop302\bin\Debug\workshop302.xml
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.vbprojResolveAssemblyReference.cache
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.Form1.resources
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.Resources.resources
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.vbproj.GenerateResource.cache
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.vbproj.CoreCompileInputs.cache
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.exe
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.xml
+D:\58121057-2\workshop302\workshop302\obj\Debug\workshop302.pdb

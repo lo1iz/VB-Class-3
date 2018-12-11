@@ -1,0 +1,12 @@
+D:\58121057-2\Workshop301\Workshop301\bin\Debug\Workshop301.exe.config
+D:\58121057-2\Workshop301\Workshop301\bin\Debug\Workshop301.exe
+D:\58121057-2\Workshop301\Workshop301\bin\Debug\Workshop301.pdb
+D:\58121057-2\Workshop301\Workshop301\bin\Debug\Workshop301.xml
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.vbprojResolveAssemblyReference.cache
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.Resources.resources
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.vbproj.GenerateResource.cache
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.vbproj.CoreCompileInputs.cache
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.exe
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.xml
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.pdb
+D:\58121057-2\Workshop301\Workshop301\obj\Debug\Workshop301.BBQ.resources
